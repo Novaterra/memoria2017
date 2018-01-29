@@ -1,0 +1,1667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297.00009mm"
+   height="210.00014mm"
+   viewBox="0 0 1052.3625 744.09497"
+   id="svg6679"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="P60-66.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#cdcdcd"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.91058886"
+     inkscape:cx="514.69339"
+     inkscape:cy="281.80179"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-nodes="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="307.37852,1240.6423"
+       orientation="0,1"
+       id="guide6256" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6681">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5965-6">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(100,100,100)"
+         result="flood"
+         id="feFlood5967-7" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5969-8" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3.8"
+         result="blur"
+         id="feGaussianBlur5971-3" />
+      <feOffset
+         dx="2"
+         dy="-2"
+         result="offset"
+         id="feOffset5973-7" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5975-2" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5446">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.176126;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect5448"
+         width="103.58585"
+         height="41.215496"
+         x="965.46393"
+         y="2070.7134" />
+    </clipPath>
+    <clipPath
+       id="clipPath5542"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="-8655.5078"
+         x="6753.792"
+         height="440.625"
+         width="1021.875"
+         id="rect5544"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.45400002;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#8eb026;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.59299994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       id="clipPath100-1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path102-7"
+         d="m 26.0024,92.3662 68.253,0 0,-65.8989 -68.253,0 0,65.8989 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6567">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.68399999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00000e;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.27361941;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect6569"
+         width="1078.3583"
+         height="536.69769"
+         x="1442.2443"
+         y="1435.3563" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6573">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.68399999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00000e;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect6575"
+         width="406.2952"
+         height="537.84637"
+         x="1429.6"
+         y="1675.8594" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4888">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.76379975;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:#786daa;stroke-width:1.02170861;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4890"
+         width="403.5607"
+         height="209.27596"
+         x="1508.3667"
+         y="787.87463" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata6684">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-1193.8875,-302.96219)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4884"
+       width="1052.3625"
+       height="744.09497"
+       x="1193.8875"
+       y="-627.40314" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/p.50.jpg"
+       xlink:href="imagenes/p.50.jpg"
+       y="-365.01578"
+       x="1193.8875"
+       id="image4039"
+       preserveAspectRatio="none"
+       height="481.70761"
+       width="857.83551" />
+    <rect
+       y="1185.4243"
+       x="1193.8875"
+       height="744.09497"
+       width="1052.3625"
+       id="rect5833"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/22.jpg"
+       xlink:href="imagenes/22.jpg"
+       y="1309.9631"
+       x="1498.3077"
+       id="image6377"
+       preserveAspectRatio="none"
+       height="726"
+       width="972"
+       clip-path="url(#clipPath6567)"
+       transform="matrix(0.71863492,0,0,0.71863492,473.73805,517.63734)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5863"
+       width="1052.3625"
+       height="744.09497"
+       x="1193.8875"
+       y="302.96219" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/fondoPortada.png"
+       xlink:href="fondoPortada.png"
+       width="1052.3625"
+       height="744.09497"
+       preserveAspectRatio="none"
+       id="image6876"
+       x="-0.00034410373"
+       y="-622.09808"
+       style="opacity:1" />
+    <rect
+       y="308.26773"
+       x="0"
+       height="744.09497"
+       width="1052.3625"
+       id="rect5371"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect4604"
+       transform="translate(0,308.26772)"
+       d="m 0,-716.53711 0,325.69727 742.14648,204.56836 310.21482,0 0,-240.1875 L 0,-716.53711 Z"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5599ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.92005849;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5384"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0325a1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:25.29999924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"><flowRegion
+         id="flowRegion5386"><rect
+           id="rect5388"
+           width="10.757514"
+           height="118.33265"
+           x="1329.1506"
+           y="4110.001" /></flowRegion><flowPara
+         id="flowPara5390" /></flowRoot>    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6107"
+       width="62.502598"
+       height="45.46204"
+       x="2183.7473"
+       y="71.229797" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.51250076px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="2213.7969"
+       y="106.80832"
+       id="text6109"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4001"
+         x="2213.7969"
+         y="106.80832">61</tspan></text>
+    <g
+       id="g4042">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5599ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect6119"
+         width="259.46161"
+         height="25.766138"
+         x="1193.8875"
+         y="90.925697" />
+      <text
+         xml:space="preserve"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         x="1212.754"
+         y="108.78069"
+         id="text8254"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8256"
+           x="1212.754"
+           y="108.78069">5 · ESPAI NOVATERRA</tspan></text>
+    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#808000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6121"
+       width="74.807396"
+       height="25.766138"
+       x="2174.1799"
+       y="-627.40314" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8260"
+       y="-607.42529"
+       x="2187.2268"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="-607.42529"
+         x="2187.2268"
+         id="tspan8262"
+         sodipodi:role="line"> 2016</tspan></text>
+    <rect
+       y="308.26773"
+       x="0"
+       height="25.766138"
+       width="74.807396"
+       id="rect6376"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#808000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="13.046875"
+       y="328.24557"
+       id="text6378"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6380"
+         x="13.046875"
+         y="328.24557"> 2016</tspan></text>
+    <rect
+       y="302.96219"
+       x="2174.1799"
+       height="25.766138"
+       width="74.807396"
+       id="rect6576"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#808000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="2187.2268"
+       y="322.94003"
+       id="text6578"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6580"
+         x="2187.2268"
+         y="322.94003"> 2016</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8865"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower, Normal';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.43727148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5965-6);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"><flowRegion
+         id="flowRegion8867"><rect
+           id="rect8869"
+           width="58.358227"
+           height="36.473892"
+           x="1572.7543"
+           y="1445.8522" /></flowRegion><flowPara
+         id="flowPara8871" /></flowRoot>    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00887565px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="107.29029"
+       y="4024.5806"
+       id="text6493"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="107.29029"
+         y="4024.5806"
+         id="tspan5361" /></text>
+    <text
+       transform="scale(0.90765096,1.1017451)"
+       sodipodi:linespacing="100%"
+       id="text5355"
+       y="-131.19421"
+       x="521.74786"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.346241px;line-height:100%;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol Bold';text-align:center;letter-spacing:0px;word-spacing:-0.04601678px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="-131.19421"
+         x="521.74786"
+         id="tspan5363"
+         sodipodi:role="line">5 · ESPAI NOVATERRA</tspan></text>
+    <g
+       clip-path="url(#clipPath5446)"
+       id="g5373"
+       transform="translate(-2.1294731e-5,-1762.4461)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5375"
+         d="m 1040.9871,2110.0633 c -0.1317,-0.1586 -2.2981,-4.2338 -2.2981,-4.3227 0,-0.041 0.3767,-0.08 0.8371,-0.086 0.4603,-0.01 2.1119,-0.036 3.6701,-0.064 l 2.8331,-0.052 -0.035,-12.105 c -0.019,-6.6578 -0.058,-12.9936 -0.086,-14.0796 l -0.051,-1.9746 -3.6916,-0.043 -3.6916,-0.043 0.021,-5.8808 c 0.035,-9.7039 0.1767,-24.5429 0.2349,-24.6371 0.037,-0.059 2.2662,-0.088 6.7441,-0.088 l 6.6897,0 0.04,0.1932 c 0.061,0.2942 0.2039,63.1133 0.1441,63.1823 -0.028,0.033 -2.5763,0.072 -5.6611,0.086 -4.4758,0.021 -5.6274,0 -5.7001,-0.084 z"
+         style="fill:#8dc8ab" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5377"
+         d="m 989.01068,2104.1206 c 0.046,-5.0518 0.3035,-51.3563 0.3116,-56.1251 l 0,-1.3951 23.99382,0 23.9938,0 0.046,0.1931 c 0.026,0.1063 0.036,10.7207 0.023,23.5876 l -0.024,23.3945 -0.5242,-0.9444 c -0.2882,-0.5194 -1.6555,-2.9726 -3.0384,-5.4515 -1.3828,-2.479 -3.1894,-5.7241 -4.0145,-7.2115 -0.8251,-1.4874 -1.561,-2.7526 -1.6354,-2.8117 -0.104,-0.083 -1.0967,-0.107 -4.304,-0.106 -2.2929,0 -4.2173,0.032 -4.2764,0.07 -0.086,0.054 -0.1032,2.9313 -0.086,14.0998 l 0.022,14.0314 4.1965,0.072 c 3.5067,0.06 4.2159,0.052 4.314,-0.046 0.099,-0.099 0.1047,-1.3941 0.037,-8.1823 -0.044,-4.4356 -0.064,-8.0819 -0.043,-8.1027 0.021,-0.021 0.053,-0.022 0.073,0 0.059,0.06 8.0384,14.2546 9.936,17.6742 0.9815,1.7685 1.7664,3.2335 1.7443,3.2556 -0.022,0.022 -11.462,0.062 -25.4222,0.09 l -25.38212,0.05 0.057,-6.1383 z"
+         style="fill:#786daa" />
+    </g>
+    <g
+       transform="translate(204.93597,-1767.7512)"
+       id="g5379"
+       clip-path="url(#clipPath5446)">
+      <path
+         style="fill:#8dc8ab"
+         d="m 1040.9871,2110.0633 c -0.1317,-0.1586 -2.2981,-4.2338 -2.2981,-4.3227 0,-0.041 0.3767,-0.08 0.8371,-0.086 0.4603,-0.01 2.1119,-0.036 3.6701,-0.064 l 2.8331,-0.052 -0.035,-12.105 c -0.019,-6.6578 -0.058,-12.9936 -0.086,-14.0796 l -0.051,-1.9746 -3.6916,-0.043 -3.6916,-0.043 0.021,-5.8808 c 0.035,-9.7039 0.1767,-24.5429 0.2349,-24.6371 0.037,-0.059 2.2662,-0.088 6.7441,-0.088 l 6.6897,0 0.04,0.1932 c 0.061,0.2942 0.2039,63.1133 0.1441,63.1823 -0.028,0.033 -2.5763,0.072 -5.6611,0.086 -4.4758,0.021 -5.6274,0 -5.7001,-0.084 z"
+         id="path5381"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#786daa"
+         d="m 989.01068,2104.1206 c 0.046,-5.0518 0.3035,-51.3563 0.3116,-56.1251 l 0,-1.3951 23.99382,0 23.9938,0 0.046,0.1931 c 0.026,0.1063 0.036,10.7207 0.023,23.5876 l -0.024,23.3945 -0.5242,-0.9444 c -0.2882,-0.5194 -1.6555,-2.9726 -3.0384,-5.4515 -1.3828,-2.479 -3.1894,-5.7241 -4.0145,-7.2115 -0.8251,-1.4874 -1.561,-2.7526 -1.6354,-2.8117 -0.104,-0.083 -1.0967,-0.107 -4.304,-0.106 -2.2929,0 -4.2173,0.032 -4.2764,0.07 -0.086,0.054 -0.1032,2.9313 -0.086,14.0998 l 0.022,14.0314 4.1965,0.072 c 3.5067,0.06 4.2159,0.052 4.314,-0.046 0.099,-0.099 0.1047,-1.3941 0.037,-8.1823 -0.044,-4.4356 -0.064,-8.0819 -0.043,-8.1027 0.021,-0.021 0.053,-0.022 0.073,0 0.059,0.06 8.0384,14.2546 9.936,17.6742 0.9815,1.7685 1.7664,3.2335 1.7443,3.2556 -0.022,0.022 -11.462,0.062 -25.4222,0.09 l -25.38212,0.05 0.057,-6.1383 z"
+         id="path5383"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       clip-path="url(#clipPath5446)"
+       id="g5387"
+       transform="translate(204.936,-2698.1165)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5389"
+         d="m 1040.9871,2110.0633 c -0.1317,-0.1586 -2.2981,-4.2338 -2.2981,-4.3227 0,-0.041 0.3767,-0.08 0.8371,-0.086 0.4603,-0.01 2.1119,-0.036 3.6701,-0.064 l 2.8331,-0.052 -0.035,-12.105 c -0.019,-6.6578 -0.058,-12.9936 -0.086,-14.0796 l -0.051,-1.9746 -3.6916,-0.043 -3.6916,-0.043 0.021,-5.8808 c 0.035,-9.7039 0.1767,-24.5429 0.2349,-24.6371 0.037,-0.059 2.2662,-0.088 6.7441,-0.088 l 6.6897,0 0.04,0.1932 c 0.061,0.2942 0.2039,63.1133 0.1441,63.1823 -0.028,0.033 -2.5763,0.072 -5.6611,0.086 -4.4758,0.021 -5.6274,0 -5.7001,-0.084 z"
+         style="fill:#8dc8ab" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5391"
+         d="m 989.01068,2104.1206 c 0.046,-5.0518 0.3035,-51.3563 0.3116,-56.1251 l 0,-1.3951 23.99382,0 23.9938,0 0.046,0.1931 c 0.026,0.1063 0.036,10.7207 0.023,23.5876 l -0.024,23.3945 -0.5242,-0.9444 c -0.2882,-0.5194 -1.6555,-2.9726 -3.0384,-5.4515 -1.3828,-2.479 -3.1894,-5.7241 -4.0145,-7.2115 -0.8251,-1.4874 -1.561,-2.7526 -1.6354,-2.8117 -0.104,-0.083 -1.0967,-0.107 -4.304,-0.106 -2.2929,0 -4.2173,0.032 -4.2764,0.07 -0.086,0.054 -0.1032,2.9313 -0.086,14.0998 l 0.022,14.0314 4.1965,0.072 c 3.5067,0.06 4.2159,0.052 4.314,-0.046 0.099,-0.099 0.1047,-1.3941 0.037,-8.1823 -0.044,-4.4356 -0.064,-8.0819 -0.043,-8.1027 0.021,-0.021 0.053,-0.022 0.073,0 0.059,0.06 8.0384,14.2546 9.936,17.6742 0.9815,1.7685 1.7664,3.2335 1.7443,3.2556 -0.022,0.022 -11.462,0.062 -25.4222,0.09 l -25.38212,0.05 0.057,-6.1383 z"
+         style="fill:#786daa" />
+    </g>
+    <circle
+       r="38.10107"
+       cy="375.6572"
+       cx="2672.8306"
+       id="path5407"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f25b20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.39372849;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#7e4162;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.39372849;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="circle5409"
+       cx="2762.8306"
+       cy="375.6572"
+       r="38.10107" />
+    <circle
+       r="38.10107"
+       cy="375.6572"
+       cx="2856.8306"
+       id="circle5411"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f8a922;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.39372849;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff1515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.39372849;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="circle5413"
+       cx="2946.8306"
+       cy="375.6572"
+       r="38.10107" />
+    <circle
+       r="38.10107"
+       cy="375.6572"
+       cx="3030.8306"
+       id="circle5415"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#58bcb7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.39372849;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5998"
+       y="-73.068176"
+       x="157.66078"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.36999893px;line-height:100%;font-family:'PakType Naqsh';-inkscape-font-specification:'PakType Naqsh, Normal';text-align:start;letter-spacing:0px;word-spacing:-0.0109103px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5312"
+         x="157.66078"
+         y="-73.068176">UN ESPACIO PARA LA I<tspan
+   style="fill:#ffffff;fill-opacity:0.42091154"
+   id="tspan5314">NC</tspan>LUSIÓN</tspan></text>
+    <g
+       transform="matrix(0.5785612,0,0,-0.5785612,1219.575,-313.36554)"
+       id="g3130">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#8dc8ab"
+         d="m 414.90625,164.03125 -35.21875,0.21875 0.0312,112.5 c -0.26812,23.93213 -0.55585,59.14992 -0.65625,86.8125 l -0.0937,26.90625 16.90625,0.21875 16.90625,0.1875 0.25,9.0625 c 0.12904,4.9742 0.28762,33.97444 0.375,64.46875 l 0.15625,55.4375 -12.96875,0.25 c -7.13696,0.12978 -14.70386,0.25037 -16.8125,0.28125 -2.10867,0.03 -3.8125,0.21776 -3.8125,0.40625 0,0.40725 9.89721,19.08575 10.5,19.8125 0.33297,0.38593 5.62491,0.46775 26.125,0.375 14.12981,-0.0643 25.80589,-0.25484 25.9375,-0.40625 0.21339,-0.24627 -0.14057,-173.46487 -0.4375,-251.28125 l 68.375,0 -94.3125,-54.78125 -1.25,-70.46875 z"
+         transform="matrix(0.8,0,0,-0.8,0,595.276)"
+         id="path3706" />
+      <path
+         style="fill:#786daa"
+         d="m 163.86677,158.37024 c -0.85173,0 -1.71475,-0.0618 -2.58541,-0.19776 -5.38312,-0.83279 -8.59073,-3.63227 -10.29261,-8.97516 -0.95577,-3.00069 -1.22904,-11.11413 -0.49152,-14.59836 1.22152,-5.77076 4.14342,-9.34916 8.66072,-10.61703 0.888,-0.24917 2.82845,-0.37425 5.06273,-0.32432 3.19522,0.0717 3.83803,0.18046 5.50508,0.95343 3.44664,1.59614 5.59699,4.41293 6.80274,8.90645 0.53928,2.00994 0.65865,3.37643 0.65865,7.34343 0,7.0725 -1.0421,10.65362 -4.06985,13.89064 -2.15042,2.29892 -5.55968,3.59644 -9.25053,3.6177 z m -0.17699,-8.19872 c 1.9457,-0.0296 3.84861,-1.45696 4.71865,-4.16796 1.61197,-5.02276 0.49096,-11.72644 -2.27086,-13.55643 -1.37449,-0.91066 -3.57837,-0.9381 -4.93493,-0.0692 -0.53445,0.34261 -1.38381,1.36204 -1.88745,2.27098 -0.89316,1.61196 -0.91426,1.76398 -0.91426,6.21276 0,4.15361 0.0635,4.6972 0.73731,6.06542 1.08692,2.20746 2.83474,3.2704 4.55154,3.24419 z"
+         id="path4043"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#786daa"
+         d="m 121.6543,124.39301 c -0.12087,0.12114 -0.22,7.62821 -0.22,16.68297 l 0,16.4627 4.36554,0 c 3.11224,0 4.45735,-0.11371 4.68527,-0.39304 0.17575,-0.21752 1.83087,-4.06612 3.67789,-8.55492 3.71579,-9.0308 3.8381,-9.29752 4.26468,-9.29752 0.17971,0 0.33196,3.60386 0.38217,9.04414 l 0.0835,9.04413 3.61763,0 3.61763,0 0.0816,-16.16509 c 0.0588,-11.67552 -0.0173,-16.28398 -0.27444,-16.59396 -0.26544,-0.31962 -1.34452,-0.42889 -4.24241,-0.42889 -3.68508,0 -3.91015,0.037 -4.34411,0.70772 -0.25172,0.38933 -2.10707,4.4594 -4.12301,9.04413 -2.01596,4.58498 -3.79275,8.46842 -3.94843,8.63008 -0.15573,0.16068 -0.39161,0.1854 -0.52426,0.0519 -0.13274,-0.13348 -0.31195,-4.29897 -0.39847,-9.25919 l -0.15722,-9.01843 -3.16168,-0.089 c -1.73894,-0.0494 -3.2607,0 -3.38173,0.13101 z"
+         id="path4039"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#786daa"
+         d="m 186.29019,124.60164 c -0.38424,0.463 -8.86119,31.40542 -8.86119,32.34501 0,0.5777 0.22248,0.60563 4.16245,0.52258 l 4.16245,-0.0865 2.05155,-10.51248 c 1.90164,-9.74419 2.48429,-11.75536 2.95185,-10.18815 0.15302,0.51293 1.71759,8.06499 3.37605,16.2966 0.99936,4.96021 0.55055,4.56124 5.13348,4.56124 2.15621,0 3.9879,-0.10877 4.07044,-0.24225 0.0826,-0.13349 -0.55255,-2.71692 -1.41127,-5.74087 -0.85871,-3.02418 -2.91724,-10.31125 -4.57454,-16.194 -1.65728,-5.8825 -3.17265,-10.79947 -3.3675,-10.92677 -0.65187,-0.42518 -7.32233,-0.28032 -7.69377,0.16809 z"
+         id="path4037"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#786daa"
+         d="m 212.18386,157.50532 c -2.0312,0 -2.12824,-0.13844 -2.35932,-0.66867 -0.48677,-1.11485 -8.48377,-31.27835 -8.48377,-31.99843 0,-0.60786 0.18762,-0.64864 3.73562,-0.64864 4.10504,0 4.22233,0.0544 4.56137,1.93652 0.11371,0.63208 0.42897,1.23375 0.69795,1.33683 0.26897,0.10383 2.22755,0.18787 4.35493,0.18787 4.2448,0 4.41778,-0.0692 4.77765,-1.91675 0.11469,-0.58906 0.37126,-1.17047 0.56034,-1.29777 0.1891,-0.12608 2.00737,-0.23236 4.04033,-0.23484 l 3.69628,0 -0.0294,0.86519 c -0.0148,0.47585 -1.82028,7.94312 -4.01086,16.59397 l -3.98135,15.72877 -4.80713,0.089 c -1.18296,0.0247 -2.0755,0.0395 -2.75257,0.0395 z m 2.35931,-11.00044 c 0.0934,0 0.18663,-0.0395 0.29493,-0.14832 0.45378,-0.45385 2.35826,-9.71972 2.12338,-10.33177 -0.26944,-0.70228 -4.53967,-0.74628 -4.80713,-0.0494 -0.18466,0.48103 1.69712,9.61242 2.12341,10.30234 0.0831,0.1335 0.17204,0.21259 0.26541,0.22495 z"
+         id="path4035"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#786daa"
+         d="m 234.20471,124.57644 c -0.0831,0.22248 -0.18663,5.85358 -0.23014,12.51476 l -0.0791,12.11132 -3.61763,0.1582 -3.61765,0.15821 0,3.93213 0,3.93214 11.24615,0.0816 11.24612,0.0816 0,-4.09331 0,-4.09356 -3.42183,0 c -2.47368,0 -3.51862,-0.11618 -3.77113,-0.42096 -0.23929,-0.28848 -0.37527,-4.22408 -0.43176,-12.50437 l -0.0823,-12.08365 -3.54491,-0.089 c -2.66189,-0.0667 -3.5825,0.0247 -3.69586,0.31468 z"
+         id="path4031"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#786daa"
+         d="m 252.19757,124.3992 c -0.11765,0.11865 -0.21381,7.62202 -0.21381,16.67678 l 0,16.4627 10.69561,0 10.69562,0 0,-3.92595 0,-3.9262 -6.84204,-0.084 -6.84207,-0.084 0,-2.04456 0,-2.0448 5.50512,-0.1582 5.50508,-0.1582 0,-3.77492 0,-3.77492 -5.50508,-0.17551 c -3.0278,-0.0964 -5.5405,-0.2027 -5.58376,-0.23483 -0.0433,-0.0321 -0.0786,-0.97494 -0.0786,-2.0935 0,-1.68859 0.10333,-2.08904 0.60851,-2.35924 0.36425,-0.19528 3.27175,-0.3258 7.24467,-0.3258 l 6.63618,0 -0.088,-4.01074 -0.088,-4.01098 -10.71776,-0.0841 c -5.89479,-0.0445 -10.81398,0.0247 -10.93157,0.13102 z"
+         id="path4029"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#786daa"
+         d="m 277.15386,157.58392 0,-16.48594 c 0,-9.06762 0.0957,-16.58137 0.2163,-16.702 0.12063,-0.12112 1.78401,-0.18539 3.69628,-0.13842 l 3.48,0.089 0.15721,4.71871 c 0.0865,2.5953 0.26309,4.89545 0.40305,5.11174 0.34214,0.52876 5.15184,0.52208 6.20308,0 1.19148,-0.60265 1.5097,-1.62011 1.74984,-5.57375 0.12088,-1.98993 0.3593,-3.79469 0.53085,-4.011 0.21976,-0.27709 1.47645,-0.39328 4.2468,-0.39328 l 3.9322,0 -0.2163,1.0224 c -0.33293,1.62876 -0.49359,3.24642 -0.79626,7.89393 -0.25322,3.88838 -0.36887,4.49228 -1.09121,5.5839 -0.9667,1.46068 -0.99978,1.90661 -0.2064,2.62472 0.33006,0.2986 0.9255,1.27651 1.32711,2.1726 0.61901,1.38082 0.73163,2.14911 0.7373,5.08232 0.007,3.22244 -0.0551,3.59002 -0.93391,5.34783 -0.7969,1.59366 -1.1884,2.00969 -2.51663,2.6739 -1.55957,0.77967 -1.65465,0.79277 -11.24612,0.8946 l -9.67325,0.0989 z m 10.32206,-8.23802 c 0.37487,0 0.79548,0 1.27797,-0.0296 3.00088,-0.10135 3.28528,-0.1681 3.87323,-0.89461 0.88924,-1.09903 0.67244,-3.93856 -0.36372,-4.77779 -0.58759,-0.47559 -1.27683,-0.57991 -3.94204,-0.57991 -3.71941,0 -3.60995,-0.10135 -3.61766,3.3228 -0.005,2.5461 0.14806,2.97944 2.77222,2.95892 z"
+         id="path4027"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#786daa"
+         d="m 342.92996,157.48554 c -1.79144,0 -2.83422,-0.10135 -2.99828,-0.26549 -0.18592,-0.1854 -2.24428,-7.50138 -4.58104,-16.25952 -2.3368,-8.75837 -4.41621,-15.98537 -4.62032,-16.05334 -0.74664,-0.24893 -1.08433,1.29752 -1.37632,6.39964 -0.29607,5.17428 -0.61253,6.56797 -1.90713,8.32652 -0.2936,0.39872 -0.16735,0.75814 0.62916,1.85792 1.33566,1.84382 1.92679,4.01173 1.92679,7.07793 0,4.61539 -1.245,7.16694 -4.0207,8.23804 -1.31835,0.50872 -2.54525,0.57028 -10.9217,0.57028 l -9.43735,0 -0.0885,-16.16163 c -0.0588,-11.67553 0.0175,-16.28398 0.27524,-16.59397 0.46948,-0.56558 6.5787,-0.60736 7.13696,-0.0494 0.25939,0.25931 0.38344,1.81836 0.38344,4.99408 0,3.92448 0.069,4.65469 0.49149,4.81685 0.27365,0.1063 1.60848,0.18787 2.96885,0.1854 2.11214,0 2.59256,-0.10382 3.29318,-0.70772 1.01768,-0.8778 1.40592,-2.45935 1.41564,-5.83925 0.0121,-4.12247 -0.7314,-3.80755 8.97527,-3.80457 7.84041,0 8.34197,0.0421 8.64105,0.59969 0.17472,0.32654 0.3244,0.87408 0.3244,1.21892 0,1.38355 0.721,1.6122 5.03324,1.6122 4.43267,0 4.34144,0.037 4.88574,-2.04455 l 0.33426,-1.25847 3.84373,-0.089 c 2.95776,-0.0667 3.8785,0.0247 4.00102,0.33421 0.0875,0.22742 -1.65295,7.70013 -3.86339,16.60385 l -4.01086,16.18115 -4.69897,0.089 c -0.75998,0.0247 -1.4378,0.0247 -2.03497,0.0247 z m -25.24479,-8.18884 c 2.56094,-0.0247 3.25035,-0.46053 3.74543,-1.96618 0.48254,-1.46736 0.0794,-3.05436 -0.9634,-3.78456 -0.91085,-0.63802 -6.76773,-0.6882 -7.00918,-0.0594 -0.0885,0.22988 -0.11939,1.61072 -0.0687,3.06694 l 0.0984,2.6445 2.98845,0.089 c 0.44715,0.0247 0.84334,0.0247 1.20921,0 z m 26.76853,-2.80171 c 0.0927,0.0247 0.18886,-0.0247 0.2851,-0.12854 0.41727,-0.44248 2.34605,-9.83615 2.1332,-10.39085 -0.26452,-0.68943 -4.55078,-0.65432 -4.81694,0.0395 -0.1975,0.51441 1.67494,9.50195 2.13322,10.24353 0.0846,0.13596 0.17255,0.21753 0.26542,0.23483 z"
+         id="path4023"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#786daa"
+         d="M 287.0625,167 66.5,292.21875 153.6875,290.8125 c -0.317,64.82282 -1.10816,203.75054 -1.28125,222.5625 l -0.25,28.125 116.25,-0.25 c 63.94128,-0.12421 116.3365,-0.30425 116.4375,-0.40625 0.1012,-0.10102 -3.4734,-6.80597 -7.96875,-14.90625 C 368.18285,510.2749 331.61195,445.275 331.34375,445 c -0.0874,-0.0989 -0.217,-0.0958 -0.3125,0 -0.0955,0.0955 -0.0161,16.77739 0.1875,37.09375 0.31165,31.0919 0.29661,37.04701 -0.15625,37.5 -0.44959,0.44804 -3.72003,0.4625 -19.78125,0.1875 l -19.21875,-0.3125 -0.0937,-64.28125 c -0.0792,-51.1549 0.0141,-64.31221 0.40625,-64.5625 0.27099,-0.17056 9.0606,-0.34125 19.5625,-0.34375 14.69058,-0.005 19.24231,0.1218 19.71875,0.5 0.34058,0.27038 3.72073,6.06261 7.5,12.875 3.77927,6.81271 12.04114,21.67695 18.375,33.03125 6.3339,11.3543 12.6172,22.5898 13.9375,24.96875 l 2.40625,4.3125 0.0937,-107.125 c 0.0496,-49.52984 0.0165,-89.92841 -0.0625,-102.4375 L 373.96875,209.9375 287.0625,167 Z"
+         transform="matrix(0.8,0,0,-0.8,0,595.276)"
+         id="path3704" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4410"
+         d="m 163.86677,158.37024 c -0.85173,0 -1.71475,-0.0618 -2.58541,-0.19776 -5.38312,-0.83279 -8.59073,-3.63227 -10.29261,-8.97516 -0.95577,-3.00069 -1.22904,-11.11413 -0.49152,-14.59836 1.22152,-5.77076 4.14342,-9.34916 8.66072,-10.61703 0.888,-0.24917 2.82845,-0.37425 5.06273,-0.32432 3.19522,0.0717 3.83803,0.18046 5.50508,0.95343 3.44664,1.59614 5.59699,4.41293 6.80274,8.90645 0.53928,2.00994 0.65865,3.37643 0.65865,7.34343 0,7.0725 -1.0421,10.65362 -4.06985,13.89064 -2.15042,2.29892 -5.55968,3.59644 -9.25053,3.6177 z m -0.17699,-8.19872 c 1.9457,-0.0296 3.84861,-1.45696 4.71865,-4.16796 1.61197,-5.02276 0.49096,-11.72644 -2.27086,-13.55643 -1.37449,-0.91066 -3.57837,-0.9381 -4.93493,-0.0692 -0.53445,0.34261 -1.38381,1.36204 -1.88745,2.27098 -0.89316,1.61196 -0.91426,1.76398 -0.91426,6.21276 0,4.15361 0.0635,4.6972 0.73731,6.06542 1.08692,2.20746 2.83474,3.2704 4.55154,3.24419 z"
+         style="fill:#786daa" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4412"
+         d="m 121.6543,124.39301 c -0.12087,0.12114 -0.22,7.62821 -0.22,16.68297 l 0,16.4627 4.36554,0 c 3.11224,0 4.45735,-0.11371 4.68527,-0.39304 0.17575,-0.21752 1.83087,-4.06612 3.67789,-8.55492 3.71579,-9.0308 3.8381,-9.29752 4.26468,-9.29752 0.17971,0 0.33196,3.60386 0.38217,9.04414 l 0.0835,9.04413 3.61763,0 3.61763,0 0.0816,-16.16509 c 0.0588,-11.67552 -0.0173,-16.28398 -0.27444,-16.59396 -0.26544,-0.31962 -1.34452,-0.42889 -4.24241,-0.42889 -3.68508,0 -3.91015,0.037 -4.34411,0.70772 -0.25172,0.38933 -2.10707,4.4594 -4.12301,9.04413 -2.01596,4.58498 -3.79275,8.46842 -3.94843,8.63008 -0.15573,0.16068 -0.39161,0.1854 -0.52426,0.0519 -0.13274,-0.13348 -0.31195,-4.29897 -0.39847,-9.25919 l -0.15722,-9.01843 -3.16168,-0.089 c -1.73894,-0.0494 -3.2607,0 -3.38173,0.13101 z"
+         style="fill:#786daa" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4414"
+         d="m 186.29019,124.60164 c -0.38424,0.463 -8.86119,31.40542 -8.86119,32.34501 0,0.5777 0.22248,0.60563 4.16245,0.52258 l 4.16245,-0.0865 2.05155,-10.51248 c 1.90164,-9.74419 2.48429,-11.75536 2.95185,-10.18815 0.15302,0.51293 1.71759,8.06499 3.37605,16.2966 0.99936,4.96021 0.55055,4.56124 5.13348,4.56124 2.15621,0 3.9879,-0.10877 4.07044,-0.24225 0.0826,-0.13349 -0.55255,-2.71692 -1.41127,-5.74087 -0.85871,-3.02418 -2.91724,-10.31125 -4.57454,-16.194 -1.65728,-5.8825 -3.17265,-10.79947 -3.3675,-10.92677 -0.65187,-0.42518 -7.32233,-0.28032 -7.69377,0.16809 z"
+         style="fill:#786daa" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4416"
+         d="m 212.18386,157.50532 c -2.0312,0 -2.12824,-0.13844 -2.35932,-0.66867 -0.48677,-1.11485 -8.48377,-31.27835 -8.48377,-31.99843 0,-0.60786 0.18762,-0.64864 3.73562,-0.64864 4.10504,0 4.22233,0.0544 4.56137,1.93652 0.11371,0.63208 0.42897,1.23375 0.69795,1.33683 0.26897,0.10383 2.22755,0.18787 4.35493,0.18787 4.2448,0 4.41778,-0.0692 4.77765,-1.91675 0.11469,-0.58906 0.37126,-1.17047 0.56034,-1.29777 0.1891,-0.12608 2.00737,-0.23236 4.04033,-0.23484 l 3.69628,0 -0.0294,0.86519 c -0.0148,0.47585 -1.82028,7.94312 -4.01086,16.59397 l -3.98135,15.72877 -4.80713,0.089 c -1.18296,0.0247 -2.0755,0.0395 -2.75257,0.0395 z m 2.35931,-11.00044 c 0.0934,0 0.18663,-0.0395 0.29493,-0.14832 0.45378,-0.45385 2.35826,-9.71972 2.12338,-10.33177 -0.26944,-0.70228 -4.53967,-0.74628 -4.80713,-0.0494 -0.18466,0.48103 1.69712,9.61242 2.12341,10.30234 0.0831,0.1335 0.17204,0.21259 0.26541,0.22495 z"
+         style="fill:#786daa" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4418"
+         d="m 234.20471,124.57644 c -0.0831,0.22248 -0.18663,5.85358 -0.23014,12.51476 l -0.0791,12.11132 -3.61763,0.1582 -3.61765,0.15821 0,3.93213 0,3.93214 11.24615,0.0816 11.24612,0.0816 0,-4.09331 0,-4.09356 -3.42183,0 c -2.47368,0 -3.51862,-0.11618 -3.77113,-0.42096 -0.23929,-0.28848 -0.37527,-4.22408 -0.43176,-12.50437 l -0.0823,-12.08365 -3.54491,-0.089 c -2.66189,-0.0667 -3.5825,0.0247 -3.69586,0.31468 z"
+         style="fill:#786daa" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4420"
+         d="m 252.19757,124.3992 c -0.11765,0.11865 -0.21381,7.62202 -0.21381,16.67678 l 0,16.4627 10.69561,0 10.69562,0 0,-3.92595 0,-3.9262 -6.84204,-0.084 -6.84207,-0.084 0,-2.04456 0,-2.0448 5.50512,-0.1582 5.50508,-0.1582 0,-3.77492 0,-3.77492 -5.50508,-0.17551 c -3.0278,-0.0964 -5.5405,-0.2027 -5.58376,-0.23483 -0.0433,-0.0321 -0.0786,-0.97494 -0.0786,-2.0935 0,-1.68859 0.10333,-2.08904 0.60851,-2.35924 0.36425,-0.19528 3.27175,-0.3258 7.24467,-0.3258 l 6.63618,0 -0.088,-4.01074 -0.088,-4.01098 -10.71776,-0.0841 c -5.89479,-0.0445 -10.81398,0.0247 -10.93157,0.13102 z"
+         style="fill:#786daa" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4422"
+         d="m 277.15386,157.58392 0,-16.48594 c 0,-9.06762 0.0957,-16.58137 0.2163,-16.702 0.12063,-0.12112 1.78401,-0.18539 3.69628,-0.13842 l 3.48,0.089 0.15721,4.71871 c 0.0865,2.5953 0.26309,4.89545 0.40305,5.11174 0.34214,0.52876 5.15184,0.52208 6.20308,0 1.19148,-0.60265 1.5097,-1.62011 1.74984,-5.57375 0.12088,-1.98993 0.3593,-3.79469 0.53085,-4.011 0.21976,-0.27709 1.47645,-0.39328 4.2468,-0.39328 l 3.9322,0 -0.2163,1.0224 c -0.33293,1.62876 -0.49359,3.24642 -0.79626,7.89393 -0.25322,3.88838 -0.36887,4.49228 -1.09121,5.5839 -0.9667,1.46068 -0.99978,1.90661 -0.2064,2.62472 0.33006,0.2986 0.9255,1.27651 1.32711,2.1726 0.61901,1.38082 0.73163,2.14911 0.7373,5.08232 0.007,3.22244 -0.0551,3.59002 -0.93391,5.34783 -0.7969,1.59366 -1.1884,2.00969 -2.51663,2.6739 -1.55957,0.77967 -1.65465,0.79277 -11.24612,0.8946 l -9.67325,0.0989 z m 10.32206,-8.23802 c 0.37487,0 0.79548,0 1.27797,-0.0296 3.00088,-0.10135 3.28528,-0.1681 3.87323,-0.89461 0.88924,-1.09903 0.67244,-3.93856 -0.36372,-4.77779 -0.58759,-0.47559 -1.27683,-0.57991 -3.94204,-0.57991 -3.71941,0 -3.60995,-0.10135 -3.61766,3.3228 -0.005,2.5461 0.14806,2.97944 2.77222,2.95892 z"
+         style="fill:#786daa" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4424"
+         d="m 342.92996,157.48554 c -1.79144,0 -2.83422,-0.10135 -2.99828,-0.26549 -0.18592,-0.1854 -2.24428,-7.50138 -4.58104,-16.25952 -2.3368,-8.75837 -4.41621,-15.98537 -4.62032,-16.05334 -0.74664,-0.24893 -1.08433,1.29752 -1.37632,6.39964 -0.29607,5.17428 -0.61253,6.56797 -1.90713,8.32652 -0.2936,0.39872 -0.16735,0.75814 0.62916,1.85792 1.33566,1.84382 1.92679,4.01173 1.92679,7.07793 0,4.61539 -1.245,7.16694 -4.0207,8.23804 -1.31835,0.50872 -2.54525,0.57028 -10.9217,0.57028 l -9.43735,0 -0.0885,-16.16163 c -0.0588,-11.67553 0.0175,-16.28398 0.27524,-16.59397 0.46948,-0.56558 6.5787,-0.60736 7.13696,-0.0494 0.25939,0.25931 0.38344,1.81836 0.38344,4.99408 0,3.92448 0.069,4.65469 0.49149,4.81685 0.27365,0.1063 1.60848,0.18787 2.96885,0.1854 2.11214,0 2.59256,-0.10382 3.29318,-0.70772 1.01768,-0.8778 1.40592,-2.45935 1.41564,-5.83925 0.0121,-4.12247 -0.7314,-3.80755 8.97527,-3.80457 7.84041,0 8.34197,0.0421 8.64105,0.59969 0.17472,0.32654 0.3244,0.87408 0.3244,1.21892 0,1.38355 0.721,1.6122 5.03324,1.6122 4.43267,0 4.34144,0.037 4.88574,-2.04455 l 0.33426,-1.25847 3.84373,-0.089 c 2.95776,-0.0667 3.8785,0.0247 4.00102,0.33421 0.0875,0.22742 -1.65295,7.70013 -3.86339,16.60385 l -4.01086,16.18115 -4.69897,0.089 c -0.75998,0.0247 -1.4378,0.0247 -2.03497,0.0247 z m -25.24479,-8.18884 c 2.56094,-0.0247 3.25035,-0.46053 3.74543,-1.96618 0.48254,-1.46736 0.0794,-3.05436 -0.9634,-3.78456 -0.91085,-0.63802 -6.76773,-0.6882 -7.00918,-0.0594 -0.0885,0.22988 -0.11939,1.61072 -0.0687,3.06694 l 0.0984,2.6445 2.98845,0.089 c 0.44715,0.0247 0.84334,0.0247 1.20921,0 z m 26.76853,-2.80171 c 0.0927,0.0247 0.18886,-0.0247 0.2851,-0.12854 0.41727,-0.44248 2.34605,-9.83615 2.1332,-10.39085 -0.26452,-0.68943 -4.55078,-0.65432 -4.81694,0.0395 -0.1975,0.51441 1.67494,9.50195 2.13322,10.24353 0.0846,0.13596 0.17255,0.21753 0.26542,0.23483 z"
+         style="fill:#786daa" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.98103333px;line-height:100%;font-family:'Noto Sans Lisu';-inkscape-font-specification:'Noto Sans Lisu Bold';text-align:start;letter-spacing:1.05387115px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8dc8ab;fill-opacity:1;stroke:#8dc8ab;stroke-width:1.20273733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="137.67107"
+         y="-158.87363"
+         id="text4529"
+         sodipodi:linespacing="100%"
+         transform="scale(0.8801255,-1.1362016)"><tspan
+           sodipodi:role="line"
+           id="tspan4531"
+           x="137.67107"
+           y="-158.87363"
+           style="letter-spacing:1.05387115px;fill:#8dc8ab;fill-opacity:1;stroke:#8dc8ab;stroke-width:1.20273733;stroke-linejoin:round;stroke-opacity:1">ESPAI</tspan></text>
+    </g>
+    <flowRoot
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.92499924px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00887565px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#58bcb7;stroke-width:1.86562645;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="flowRoot4846"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4848"><rect
+           y="-4238.7617"
+           x="101.84491"
+           height="358.3432"
+           width="505.45251"
+           id="rect4850" /></flowRegion><flowPara
+         id="flowPara4852" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4870"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25025177px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00887565px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.86600006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="matrix(1.5896256,0,0,1.5896256,1378.8002,6043.1561)"><flowRegion
+         id="flowRegion4872"><rect
+           id="rect4874"
+           width="631.30798"
+           height="221.30852"
+           x="75.440674"
+           y="-4155.7769"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25025177px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#786daa;fill-opacity:1;stroke:none;stroke-width:1.86600006;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+         id="flowPara4821">Un espacio emblemático, el antiguo Colegio Mayor La Coma,</flowPara><flowPara
+         id="flowPara4823">de nuevo al servicio de las personas.</flowPara></flowRoot>    <rect
+       y="352.03387"
+       x="0"
+       height="45.227627"
+       width="1052.8059"
+       id="rect3802"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.46000001;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.01px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="68.153809"
+       y="387.5683"
+       id="text3804"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5388"
+         x="68.153809"
+         y="387.5683">Espai Novaterra, tu espacio</tspan></text>
+    <flowRoot
+       transform="translate(210.17651,49.36828)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00951045px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.86600006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="flowRoot3752"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3754"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.86600006;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-528.45312"
+           x="1293.295"
+           height="122.02529"
+           width="710.81934"
+           id="rect3756" /></flowRegion><flowPara
+         id="flowPara5363">Situado en el Barrio de La Coma (Paterna), y con una superficie de 1.200 m2, Espai Novaterra supone la revitalización de las instalaciones del antiguo Colegio Mayor de La Coma, que supuso un emblema de la integración social durante más de 20 años, hoy convertido en:</flowPara><flowPara
+         id="flowPara5365" /></flowRoot>    <rect
+       y="796.93945"
+       x="-42.485073"
+       height="1.6097413"
+       width="6.4389653"
+       id="rect4904"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39400017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5599ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6370"
+       width="259.46161"
+       height="25.766138"
+       x="792.90057"
+       y="1026.5961" />
+    <rect
+       y="1006.9001"
+       x="-0.00034410373"
+       height="45.46204"
+       width="62.502598"
+       id="rect6364"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6366"
+       y="1042.4788"
+       x="30.049162"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.51250076px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4003"
+         x="30.049162"
+         y="1042.4788">62</tspan></text>
+    <rect
+       y="350.51129"
+       x="1193.8875"
+       height="45.227627"
+       width="1052.8059"
+       id="rect4917"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.46000001;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.01px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="1262.0413"
+       y="386.04572"
+       id="text4919"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5677"
+         x="1262.0413"
+         y="386.04572">Presentación del libro “La Palanca del éxito”</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4923"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="translate(1704.9922,194.44632)"><flowRegion
+         id="flowRegion4925"><rect
+           id="rect4927"
+           width="369.41913"
+           height="584.51105"
+           x="-434.59937"
+           y="227.10709"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5809">La Fundación Novaterra organizó la primera presentación de este libro, una historia de reinvención y superación personal de Juan Pedro Sánchez, que destinará el <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan6856">15% de los beneficios </flowSpan>a la Fundación Novaterra.</flowPara></flowRoot>    <rect
+       y="1001.5951"
+       x="2183.7473"
+       height="45.46204"
+       width="62.502598"
+       id="rect6564"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6566"
+       y="1037.1738"
+       x="2213.7966"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.51250076px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4005"
+         x="2213.7966"
+         y="1037.1738">63</tspan></text>
+    <flowRoot
+       transform="translate(-3.4410373e-4,308.26724)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.57399998;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00ccff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39400017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="flowRoot5809"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5811"><rect
+           y="237.54788"
+           x="1433.1576"
+           height="31.916586"
+           width="75.158409"
+           id="rect5813" /></flowRegion><flowPara
+         id="flowPara5815" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3271"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;marker:none;enable-background:accumulate"
+       transform="translate(1736.5433,-1098.1117)"><flowRegion
+         id="flowRegion3273"><rect
+           id="rect3275"
+           width="358.44464"
+           height="182.89407"
+           x="11.252058"
+           y="3887.4395"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke-width:1.25;marker:none;enable-background:accumulate"
+           transform="scale(1,-1)" /></flowRegion><flowPara
+         id="flowPara4703">“Espai Novaterra” cumple un año de vida. Situado en el Barrio de La Coma (Paterna), y con una superficie de 1.200 m2, Espai Novaterra supone la revitalización de las instalaciones del antiguo Colegio Mayor de La Coma, que supuso un emblema de la integración social durante más de 20 años, hoy convertido hoy en:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5390"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00951045px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="translate(-1231.4157,1067.2747)"><flowRegion
+         id="flowRegion5392"><rect
+           id="rect5394"
+           width="496.16934"
+           height="303.13632"
+           x="1293.295"
+           y="-528.45312"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></flowRegion><flowPara
+         id="flowPara5669">El Espai Novaterra es mucho más que una Escuela de formación para el empleo. Queremos que sea el espacio de encuentro de las entidades sociales y la ciudadanía.</flowPara><flowPara
+         id="flowPara5671" /><flowPara
+         id="flowPara5673">Gracias a la continuidad del compromiso de <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan6850">Caixa Popular</flowSpan>, seguimos pudiendo  <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan6852">ofrecer nuestro salón de actos</flowSpan> con capacidad para <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan6854">140 personas de manera gratuita a las entidades y asociaciones valencianas.</flowSpan> Un espacio para sus actividades, reuniones, para compartir. Un espacio plural, dinámico, sostenible, coherente.</flowPara><flowPara
+         id="flowPara5675" /></flowRoot>    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/cartelSpai.png"
+       xlink:href="imagenes/cartelSpai.png"
+       y="407.69604"
+       x="597.81219"
+       id="image5504"
+       preserveAspectRatio="none"
+       height="612.90002"
+       width="440.54999" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/21.JPG"
+       xlink:href="imagenes/21.JPG"
+       y="751.42053"
+       x="152.49605"
+       id="image5569"
+       preserveAspectRatio="none"
+       height="236.85439"
+       width="323.38977" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/caixapopular.png"
+       xlink:href="imagenes/caixapopular.png"
+       y="419.11469"
+       x="180.88637"
+       id="image5666"
+       preserveAspectRatio="none"
+       height="93.637558"
+       width="240.70195" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/15.JPG"
+       xlink:href="imagenes/15.JPG"
+       y="395.73892"
+       x="1884.5208"
+       id="image5741"
+       preserveAspectRatio="none"
+       height="270.51169"
+       width="362.17267" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/16.jpg"
+       xlink:href="imagenes/16.jpg"
+       y="395.73892"
+       x="1704.2593"
+       id="image5806"
+       preserveAspectRatio="none"
+       height="270.18097"
+       width="180.26137" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.46000001;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5811"
+       width="1052.8059"
+       height="45.227627"
+       x="1193.8875"
+       y="678.80713" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5813"
+       y="714.34155"
+       x="1262.0413"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.01px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5829"
+         x="1262.0413"
+         y="714.34155">Reunión Incorpora Valencia</tspan></text>
+    <flowRoot
+       transform="translate(2179.9173,515.75714)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="flowRoot5817"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5819"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+           y="227.10709"
+           x="-434.59937"
+           height="323.24326"
+           width="449.44543"
+           id="rect5821" /></flowRegion><flowPara
+         id="flowPara5831">Los representantes de las 18 entidades valencianas que forman el programa Incorpora de la Obra Social “la Caixa” se reunieron en nuestras instalaciones.</flowPara></flowRoot>    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5835"
+       width="1052.3625"
+       height="744.09497"
+       x="0"
+       y="1190.7299" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#808000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5837"
+       width="74.807396"
+       height="25.766138"
+       x="0"
+       y="1190.7299" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5839"
+       y="1210.7076"
+       x="13.046875"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="1210.7076"
+         x="13.046875"
+         id="tspan5841"
+         sodipodi:role="line"> 2016</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#808000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5843"
+       width="74.807396"
+       height="25.766138"
+       x="2174.1799"
+       y="1185.4243" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5845"
+       y="1205.4021"
+       x="2187.2268"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="1205.4021"
+         x="2187.2268"
+         id="tspan5847"
+         sodipodi:role="line"> 2016</tspan></text>
+    <g
+       transform="translate(-2.1294731e-5,-879.98401)"
+       id="g5849"
+       clip-path="url(#clipPath5446)">
+      <path
+         style="fill:#8dc8ab"
+         d="m 1040.9871,2110.0633 c -0.1317,-0.1586 -2.2981,-4.2338 -2.2981,-4.3227 0,-0.041 0.3767,-0.08 0.8371,-0.086 0.4603,-0.01 2.1119,-0.036 3.6701,-0.064 l 2.8331,-0.052 -0.035,-12.105 c -0.019,-6.6578 -0.058,-12.9936 -0.086,-14.0796 l -0.051,-1.9746 -3.6916,-0.043 -3.6916,-0.043 0.021,-5.8808 c 0.035,-9.7039 0.1767,-24.5429 0.2349,-24.6371 0.037,-0.059 2.2662,-0.088 6.7441,-0.088 l 6.6897,0 0.04,0.1932 c 0.061,0.2942 0.2039,63.1133 0.1441,63.1823 -0.028,0.033 -2.5763,0.072 -5.6611,0.086 -4.4758,0.021 -5.6274,0 -5.7001,-0.084 z"
+         id="path5851"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#786daa"
+         d="m 989.01068,2104.1206 c 0.046,-5.0518 0.3035,-51.3563 0.3116,-56.1251 l 0,-1.3951 23.99382,0 23.9938,0 0.046,0.1931 c 0.026,0.1063 0.036,10.7207 0.023,23.5876 l -0.024,23.3945 -0.5242,-0.9444 c -0.2882,-0.5194 -1.6555,-2.9726 -3.0384,-5.4515 -1.3828,-2.479 -3.1894,-5.7241 -4.0145,-7.2115 -0.8251,-1.4874 -1.561,-2.7526 -1.6354,-2.8117 -0.104,-0.083 -1.0967,-0.107 -4.304,-0.106 -2.2929,0 -4.2173,0.032 -4.2764,0.07 -0.086,0.054 -0.1032,2.9313 -0.086,14.0998 l 0.022,14.0314 4.1965,0.072 c 3.5067,0.06 4.2159,0.052 4.314,-0.046 0.099,-0.099 0.1047,-1.3941 0.037,-8.1823 -0.044,-4.4356 -0.064,-8.0819 -0.043,-8.1027 0.021,-0.021 0.053,-0.022 0.073,0 0.059,0.06 8.0384,14.2546 9.936,17.6742 0.9815,1.7685 1.7664,3.2335 1.7443,3.2556 -0.022,0.022 -11.462,0.062 -25.4222,0.09 l -25.38212,0.05 0.057,-6.1383 z"
+         id="path5853"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       clip-path="url(#clipPath5446)"
+       id="g5855"
+       transform="translate(204.93597,-885.28911)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5857"
+         d="m 1040.9871,2110.0633 c -0.1317,-0.1586 -2.2981,-4.2338 -2.2981,-4.3227 0,-0.041 0.3767,-0.08 0.8371,-0.086 0.4603,-0.01 2.1119,-0.036 3.6701,-0.064 l 2.8331,-0.052 -0.035,-12.105 c -0.019,-6.6578 -0.058,-12.9936 -0.086,-14.0796 l -0.051,-1.9746 -3.6916,-0.043 -3.6916,-0.043 0.021,-5.8808 c 0.035,-9.7039 0.1767,-24.5429 0.2349,-24.6371 0.037,-0.059 2.2662,-0.088 6.7441,-0.088 l 6.6897,0 0.04,0.1932 c 0.061,0.2942 0.2039,63.1133 0.1441,63.1823 -0.028,0.033 -2.5763,0.072 -5.6611,0.086 -4.4758,0.021 -5.6274,0 -5.7001,-0.084 z"
+         style="fill:#8dc8ab" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5859"
+         d="m 989.01068,2104.1206 c 0.046,-5.0518 0.3035,-51.3563 0.3116,-56.1251 l 0,-1.3951 23.99382,0 23.9938,0 0.046,0.1931 c 0.026,0.1063 0.036,10.7207 0.023,23.5876 l -0.024,23.3945 -0.5242,-0.9444 c -0.2882,-0.5194 -1.6555,-2.9726 -3.0384,-5.4515 -1.3828,-2.479 -3.1894,-5.7241 -4.0145,-7.2115 -0.8251,-1.4874 -1.561,-2.7526 -1.6354,-2.8117 -0.104,-0.083 -1.0967,-0.107 -4.304,-0.106 -2.2929,0 -4.2173,0.032 -4.2764,0.07 -0.086,0.054 -0.1032,2.9313 -0.086,14.0998 l 0.022,14.0314 4.1965,0.072 c 3.5067,0.06 4.2159,0.052 4.314,-0.046 0.099,-0.099 0.1047,-1.3941 0.037,-8.1823 -0.044,-4.4356 -0.064,-8.0819 -0.043,-8.1027 0.021,-0.021 0.053,-0.022 0.073,0 0.059,0.06 8.0384,14.2546 9.936,17.6742 0.9815,1.7685 1.7664,3.2335 1.7443,3.2556 -0.022,0.022 -11.462,0.062 -25.4222,0.09 l -25.38212,0.05 0.057,-6.1383 z"
+         style="fill:#786daa" />
+    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.46000001;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5867"
+       width="1052.8059"
+       height="45.227627"
+       x="0"
+       y="1234.496" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5869"
+       y="1270.0304"
+       x="68.153809"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.01px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5945"
+         x="68.153809"
+         y="1270.0304">Visitas Escolares</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39400017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5873"
+       width="6.4389653"
+       height="1.6097413"
+       x="-42.485073"
+       y="1679.4015" />
+    <rect
+       y="1909.0581"
+       x="792.90057"
+       height="25.766138"
+       width="259.46161"
+       id="rect5875"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5599ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5877"
+       width="62.502598"
+       height="45.46204"
+       x="-0.00034410373"
+       y="1889.3622" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.51250076px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="30.049162"
+       y="1924.9408"
+       id="text5879"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4007"
+         x="30.049162"
+         y="1924.9408">64</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.46000001;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5883"
+       width="1052.8059"
+       height="45.227627"
+       x="1193.8875"
+       y="1232.9734" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5885"
+       y="1268.5078"
+       x="1262.0413"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.01px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6521"
+         x="1262.0413"
+         y="1268.5078">Ciclo </tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5897"
+       width="62.502598"
+       height="45.46204"
+       x="2186.4849"
+       y="1889.3622" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.51250076px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="2216.5342"
+       y="1924.9408"
+       id="text5899"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4009"
+         x="2216.5342"
+         y="1924.9408">65</tspan></text>
+    <flowRoot
+       transform="translate(-1247.7141,1836.2749)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00951045px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.86600006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="flowRoot5903"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5905"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.86600006;stroke-miterlimit:4;stroke-dasharray:none"
+           y="-528.45312"
+           x="1293.295"
+           height="74.959076"
+           width="959.50885"
+           id="rect5907" /></flowRegion><flowPara
+         id="flowPara5947">Con el objetivo de sensibilizar a las futuras generaciones, como cada año acogimos en el Espai Novaterra la visitas de distintos colegios e institutos para darles a conocer el proyecto Novaterra y movilizarlos a la acción a través del activismo social y el voluntariado.</flowPara><flowPara
+         id="flowPara5949" /></flowRoot>    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/17 IES Enric Valor de Picanya.jpg"
+       xlink:href="imagenes/17 IES Enric Valor de Picanya.jpg"
+       y="1373.5876"
+       x="72.840981"
+       id="image6013"
+       preserveAspectRatio="none"
+       height="261.27371"
+       width="465.28195" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/18 Estudiantes de EPLA y Xaverianas.jpg"
+       xlink:href="imagenes/18 Estudiantes de EPLA y Xaverianas.jpg"
+       y="1375.2788"
+       x="576.99036"
+       id="image6080"
+       preserveAspectRatio="none"
+       height="257.41635"
+       width="458.41266" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/19 Visita Vedrunas Valencia.jpg"
+       xlink:href="imagenes/19 Visita Vedrunas Valencia.jpg"
+       y="1658.8613"
+       x="72.840981"
+       id="image6151"
+       preserveAspectRatio="none"
+       height="261.27374"
+       width="465.28195" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4377"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.1099999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="translate(-44.610246,936.31876)"><flowRegion
+         id="flowRegion4379"><rect
+           id="rect4381"
+           width="950.46088"
+           height="303.52515"
+           x="1296.5361"
+           y="476.16916"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000" /></flowRegion><flowPara
+         id="flowPara3497"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4320">Con este objetivo nace el ciclo: “Tierra, gastronomía e inclusión”.</flowSpan> Con el objetivo de dar a conocer proyectos, empresas, profesionales, que desde estos ámbitos proponen y trabajan por modelos sostenibles e inclusivos.</flowPara><flowPara
+         id="flowPara3499" /><flowPara
+         id="flowPara3501">A través de <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4322">charlas, <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold Italic'"
+   id="flowSpan4323">showcookings </flowSpan>y diversos talleres,</flowSpan> a lo largo del año, hemos avanzado, JUNT@S, en la medida de nuestras posibilidades, en la <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4324">construcción de ese mundo inclusivo</flowSpan> que queremos y en el que creemos.</flowPara></flowRoot>    <g
+       transform="matrix(0.54477337,0,0,0.54477337,-1973.8545,5859.5821)"
+       id="g5546">
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#8eb026;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.58875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 6850.2781,-8492.722 0,29.7838 -0.072,0 0,598.0326 806.5429,0 0,-0.1151 90.5313,0 0,-596.6439 0.066,0 0,-31.0574 -897.0684,0 z m 595.5879,170.9615 2.0137,77.3216 153.9609,60.1381 -111.6191,0 c 0.4842,85.4156 1.0435,275.5354 0.6953,275.8057 -0.2148,0.166 -19.209,0.3469 -42.2637,0.4169 -27.9052,0.081 -60.6172,-0.2529 -60.6172,-0.2529 l 0.3184,-413.1695 57.5117,-0.2599 z m -208.6094,3.28 141.8086,47.1209 c -4.8271,124.2642 1.8008,363.1733 1.8008,363.1733 l -174.0293,0.4728 -189.6465,0.2076 0.3868,-30.8236 c 0.3006,-21.9752 1.5797,-181.4256 2.0117,-244.3051 l -141.7617,1.5562 0,-0.1587 359.4296,-137.2434 z"
+         id="path5361"
+         inkscape:connector-curvature="0"
+         clip-path="url(#clipPath5542)" />
+      <path
+         sodipodi:nodetypes="sccscccccscscsscs"
+         inkscape:connector-curvature="0"
+         id="path5363"
+         d="m 7062.4112,-8405.9942 c -25.9358,-1.6919 -32.3918,-8.4017 -53.0895,-2.0388 -12.9538,3.9823 -27.6847,15.7662 -21.9171,16.8841 5.8077,1.1261 12.3259,3.7146 15.0758,5.9877 3.8017,3.1421 4.9551,10.9451 2.5223,17.0642 -1.6128,4.0458 -2.9482,5.3077 -7.1243,6.7058 -4.5854,1.5352 -5.0743,2.0633 -4.5142,4.8787 1.3934,7.0054 1.6748,13.4228 0.6961,15.8782 -1.4963,3.7533 -10.3268,6.9512 -18.7732,6.7987 -9.2208,-0.1664 -16.1468,-3.4586 -18.57,-8.8268 -2.0956,-4.6425 -2.8738,-4.4555 -9.7854,2.3513 -9.8898,9.7397 -37.6958,12.7908 -45.2429,7.0892 -4.9967,-3.7745 -13.42,-6.3713 -14.0915,-20.605 1.2834,-12.6482 11.6665,-36.6617 24.3459,-47.2723 16.4772,-13.7892 56.798,-19.5859 84.4005,-19.5025 21.5714,0.066 62.9182,9.507 71.8231,14.0819 6.7284,3.8845 2.8342,1.0863 -5.7556,0.5256 z"
+         style="fill:#8dc8ab;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5365"
+         d="m 7069.1006,-8407.4197 c -0.5591,0.035 -8.1341,-3.4078 -16.8334,-7.653 -21.2921,-10.3901 -45.3481,-15.7762 -73.1279,-16.3729 -19.3073,-0.415 -29.268,-5.3391 -31.6113,-15.6277 -2.0464,-8.9829 3.925,-23.0876 10.8778,-25.6954 5.6315,-2.1119 8.5574,-0.9155 15.3333,6.2703 3.1568,3.3481 5.9746,5.8079 6.2618,5.4661 0.2869,-0.3416 0.6094,-3.1218 0.7166,-6.178 0.5249,-15.0012 9.6573,-17.5325 19.5951,-5.4318 5.0664,6.1691 5.7606,10.3659 2.3899,14.4405 -4.3567,5.2664 -3.528,6.1727 15.5134,16.9614 28.6769,16.2483 54.742,33.5726 50.8847,33.8205 z"
+         style="fill:#786daa;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5367"
+         d="m 7159.9488,-8411.0306 c -0.1175,-0.017 -0.2295,0 -0.3401,0.017 -21.4642,7.0039 -40.4468,9.9687 -63.722,9.9551 -21.6926,-0.017 -24.5362,0.037 -48.9856,-6.8636 -3.7322,-0.6706 -0.5336,6.2445 0.8394,5.165 6.5645,0.02 8.4878,4.4207 10.1282,10.5059 1.8842,6.9898 -1.5276,18.5319 -7.9854,27.0103 -5.0471,6.6259 -6.8959,11.6975 -6.881,18.8807 0.017,7.7183 1.5047,11.0559 7.397,16.568 4.8859,4.5699 7.0796,5.722 15.5759,8.1841 15.6611,4.5384 39.7014,6.8601 54.3579,5.2518 16.3307,-1.7923 31.2923,-7.3778 38.4651,-14.3645 9.9453,-9.6872 11.053,-20.8658 3.9306,-39.6852 -4.4202,-11.679 -6.1223,-21.5805 -4.7872,-27.8581 1.0578,-4.9738 -0.026,-5.8423 3.654,-7.746 2.3139,-1.5293 0.097,-4.8731 -1.6468,-5.0209 z m -95.9058,13.5744 c 3.0368,-0.1484 11.0526,0.9832 26.6007,2.7107 24.173,2.6861 46.3164,1.3212 51.9039,-0.8938 1.9206,-0.7613 7.1329,-1.4055 7.5269,-1.1621 0.3937,0.2434 0.718,4.1916 0.718,8.7726 0,10.7073 0.9438,15.0936 5.2659,24.4611 4.3589,9.4463 5.5011,14.8786 4.3231,20.553 -2.6309,12.6728 -16.598,20.2208 -40.4492,21.8627 -12.8955,0.8879 -13.4025,0.889 -25.6549,0.052 -23.2043,-1.5849 -38.1871,-7.8998 -41.3285,-17.4187 -2.2404,-6.7872 0.7093,-16.9269 7.1751,-24.6716 4.1301,-4.9471 6.9296,-10.4408 8.187,-16.0601 1.3062,-5.8363 -0.04,-10.568 -4.1901,-14.7193 -1.704,-1.7039 -1.5488,-2.3942 -1.5488,-2.8867 0,-0.3599 0.4585,-0.5502 1.4709,-0.5997 z"
+         style="fill:#ffffff" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5369"
+         d="m 7105.5216,-8455.67 c -3.7222,-0.017 -7.3046,1.2101 -9.0843,3.6595 -1.6484,2.27 -1.6597,2.7226 -0.2218,8.1386 l -0.2078,6.0215 -0.076,0.036 c -9.3872,1.9357 -14.7868,3.4589 -20.4294,5.7649 -8.3821,3.4237 -17.2475,8.5571 -17.358,10.053 -0.037,0.5205 3.0551,1.9096 6.8725,3.0887 14.5518,4.4943 31.7354,7.0658 45.4524,6.8001 6.9975,-0.1356 27.5864,-1.5478 33.2223,-3.8616 5.2298,-2.1471 12.8298,-4.5826 12.3227,-7.0941 0.7647,-2.2854 -13.5438,-10.0495 -23.2672,-12.6256 -2.8282,-0.7493 -5.2041,-1.6287 -5.28,-1.9524 -0.076,-0.3239 -13.158,-1.5644 -12.1529,-3.1117 1.0052,-1.5474 1.9096,-4.2106 2.0129,-5.9176 0.1586,-2.6362 -0.123,-3.4357 -1.8888,-5.295 -2.3349,-2.4599 -6.1956,-3.6966 -9.9177,-3.7056 z m 6.737,20.5907 c 0.701,-0.017 1.4242,-0.017 2.1916,0 9.2047,0.1329 19.6709,3.7787 25.4124,6.8492 5.2238,2.7933 5.8364,4.6875 2.5292,7.8182 -4.5683,4.3253 -17.3174,4.7608 -30.664,4.894 -12.2345,0.1216 -41.9815,-4.2813 -44.2443,-6.5493 -1.6575,-1.6611 10.5942,-6.3114 26.3613,-10.0071 9.7105,-2.2673 13.5043,-2.9359 18.4138,-3.0079 z"
+         style="fill:#ffffff" />
+      <g
+         style="opacity:1;fill:#8eb026;fill-opacity:1"
+         transform="matrix(1.5228595,0,0,1.0070522,7430.943,-7990.9732)"
+         inkscape:export-filename="/home/creawww/KGESTION/070/diseños/Caterring/Sanvalentin/CateringSanvalentin.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         id="g5371">
+        <path
+           d="m -301.33,-447.92 c 4.76,4.38 7.36,0.54 11.48,5.19 2.08,-7.48 5.22,-5.07 5.81,-11.22 -0.39,-6.43 -8.86,-7.04 -9.19,0.85 -4.62,-6.67 -12.17,0.3 -8.1,5.18 z"
+           style="fill:#8eb026;fill-opacity:1;fill-rule:evenodd"
+           sodipodi:nodetypes="ccccc"
+           id="path5373"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m -301.46,-449.05 c 4.75,4.38 7.35,0.54 11.47,5.18 2.09,-7.47 5.22,-5.06 5.81,-11.21 -0.38,-6.43 -8.85,-7.04 -9.18,0.85 -4.63,-6.68 -12.17,0.29 -8.1,5.18 z"
+           style="fill:#8eb026;fill-opacity:1;fill-rule:evenodd"
+           sodipodi:nodetypes="ccccc"
+           id="path5375-5"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(1.065205,0,0,-0.91854064,6876.2939,-8320.778)"
+         style="fill:#8eb026;fill-opacity:1"
+         id="g5377">
+        <g
+           style="fill:#8eb026;fill-opacity:1"
+           id="g5379-7"
+           clip-path="url(#clipPath100-1)">
+          <g
+             style="fill:#8eb026;fill-opacity:1"
+             id="g5381"
+             transform="translate(52.8047,53.3433)">
+            <path
+               inkscape:connector-curvature="0"
+               id="path5383-2"
+               style="fill:#8eb026;fill-opacity:1;fill-rule:evenodd;stroke:none"
+               d="m 0,0 c -4.109,-4.977 -8.014,-9.509 -11.93,-14.434 -1.68,-2.11 -5.956,-5.989 -2.602,-8.608 3.124,-1.659 5.559,2.827 7.515,4.895 1.058,1.12 2.085,2.177 3.104,3.333 4.25,4.818 8.605,10.205 12.999,14.837 0.881,0.928 1.872,2.817 2.931,1.495 1.184,-0.992 -2.477,-4.857 -3.913,-6.832 -3.218,-4.433 -5.893,-8.778 -9.025,-13.014 -1.607,-2.174 -5.279,-6.104 -3.051,-7.892 4.291,-4.061 12.962,11.801 17.671,18.018 2.371,3.128 4.712,6.098 7.5,9.071 2.55,2.718 5.036,7.002 9.973,7.025 1.345,-7.95 0.902,-17.164 8.566,-18.188 1.348,0.304 0.389,3.467 0.289,4.969 -0.129,1.899 -0.479,3.774 -0.502,5.275 -0.046,3.677 1.267,6.899 1.674,10.416 0.452,3.926 0.219,7.768 -0.106,12.011 -0.022,0.132 -1.111,7.25 -5.948,10.902 -4.883,3.681 -7.263,5.513 -12.786,5.744 C 16.936,38.127 12.605,36.231 8.909,34.28 4.493,31.951 0.354,29.136 -3.251,26.289 -5.14,24.794 -6.773,23.129 -8.508,21.611 -11.849,18.679 -15.694,15.299 -19.019,12.253 -22.403,9.158 -29.267,4.09 -25.895,0.582 c 1.892,-2.18 4.615,1.097 6.225,2.493 3.871,3.347 7.454,6.434 11.265,9.427 1.758,1.375 4.125,4.477 6.531,3.277 1.349,-1.594 -0.587,-2.996 -1.569,-4.067 -2.259,-2.461 -3.408,-3.338 -4.803,-4.895 -3.581,-4.003 -6.555,-7.61 -9.885,-11.959 -1.257,-1.641 -5.402,-5.734 -0.793,-7.677 2.887,-0.205 4.344,2.663 6.044,4.374 1.874,1.885 3.729,3.942 5.528,5.846 2.256,2.385 4.512,5.057 6.547,7.081 C 0.537,5.816 2.663,9.035 4.22,7.619 5.522,5.591 1.796,2.168 0,0" />
+          </g>
+        </g>
+      </g>
+      <text
+         transform="scale(0.86456845,1.1566464)"
+         sodipodi:linespacing="69.999999%"
+         id="text5529"
+         y="-7271.1846"
+         x="8633.248"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:86.61182404px;line-height:69.99999881%;font-family:'Aarvark Cafe';-inkscape-font-specification:'Aarvark Cafe, Normal';text-align:center;letter-spacing:0px;word-spacing:-0.4854649px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan5531"
+           y="-7271.1846"
+           x="8642.8164"
+           sodipodi:role="line">Tierra, gastronomía </tspan><tspan
+           id="tspan5533"
+           y="-7210.5562"
+           x="8633.248"
+           sodipodi:role="line">e inclusión</tspan></text>
+    </g>
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/21.jpg"
+       xlink:href="imagenes/21.jpg"
+       y="1582.192"
+       x="1276.0588"
+       id="image6312"
+       preserveAspectRatio="none"
+       height="89.846306"
+       width="206.40366" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/23.jpg"
+       xlink:href="imagenes/23.jpg"
+       y="1662.1144"
+       x="1300.8365"
+       id="image6442"
+       preserveAspectRatio="none"
+       height="507.13611"
+       width="678.97559"
+       clip-path="url(#clipPath6573)"
+       transform="matrix(0.46418337,0,0,0.46418337,789.75253,927.89424)" />
+    <flowRoot
+       transform="translate(-44.190311,824.42185)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.1099999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="flowRoot6523"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6525"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           y="476.16916"
+           x="1296.5361"
+           height="407.24741"
+           width="482.88782"
+           id="rect6527" /></flowRegion><flowPara
+         id="flowPara6529">Novaterra tiene entre sus <flowSpan
+   id="flowSpan6531"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'">objetivos el activismo social.</flowSpan> Además de atender a las personas que <flowSpan
+   id="flowSpan6533"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'">sufren una situación</flowSpan> de exclusión social en Valencia, <flowSpan
+   id="flowSpan6535"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'">activar a la ciudadanía y combatir directamente las causas de la exclusión</flowSpan> para que cada vez sean menos las personas que se encuentran en esta situación.</flowPara><flowPara
+         id="flowPara6537" /><flowPara
+         id="flowPara6545" /></flowRoot>    <flowRoot
+       transform="translate(-65.190052,1234.7897)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.1099999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="flowRoot6577"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6579"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           y="476.16916"
+           x="1296.5361"
+           height="295.69269"
+           width="192.80629"
+           id="rect6581" /></flowRegion><flowPara
+         id="flowPara6597">Por primera vez organizamos un taller para los más peques dentro de este ciclo de conferencias, con la colaboración de Valencia Club Cocina, que fue todo un éxito.</flowPara></flowRoot>    <rect
+       y="2106.1196"
+       x="3.292769"
+       height="744.09497"
+       width="1052.3625"
+       id="rect6599"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       y="2106.1196"
+       x="3.292769"
+       height="25.766138"
+       width="74.807396"
+       id="rect6601"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#808000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="16.339643"
+       y="2126.0974"
+       id="text6603"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6605"
+         x="16.339643"
+         y="2126.0974"> 2016</tspan></text>
+    <g
+       clip-path="url(#clipPath5446)"
+       id="g6607"
+       transform="translate(3.2927477,35.405766)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6609"
+         d="m 1040.9871,2110.0633 c -0.1317,-0.1586 -2.2981,-4.2338 -2.2981,-4.3227 0,-0.041 0.3767,-0.08 0.8371,-0.086 0.4603,-0.01 2.1119,-0.036 3.6701,-0.064 l 2.8331,-0.052 -0.035,-12.105 c -0.019,-6.6578 -0.058,-12.9936 -0.086,-14.0796 l -0.051,-1.9746 -3.6916,-0.043 -3.6916,-0.043 0.021,-5.8808 c 0.035,-9.7039 0.1767,-24.5429 0.2349,-24.6371 0.037,-0.059 2.2662,-0.088 6.7441,-0.088 l 6.6897,0 0.04,0.1932 c 0.061,0.2942 0.2039,63.1133 0.1441,63.1823 -0.028,0.033 -2.5763,0.072 -5.6611,0.086 -4.4758,0.021 -5.6274,0 -5.7001,-0.084 z"
+         style="fill:#8dc8ab" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6611"
+         d="m 989.01068,2104.1206 c 0.046,-5.0518 0.3035,-51.3563 0.3116,-56.1251 l 0,-1.3951 23.99382,0 23.9938,0 0.046,0.1931 c 0.026,0.1063 0.036,10.7207 0.023,23.5876 l -0.024,23.3945 -0.5242,-0.9444 c -0.2882,-0.5194 -1.6555,-2.9726 -3.0384,-5.4515 -1.3828,-2.479 -3.1894,-5.7241 -4.0145,-7.2115 -0.8251,-1.4874 -1.561,-2.7526 -1.6354,-2.8117 -0.104,-0.083 -1.0967,-0.107 -4.304,-0.106 -2.2929,0 -4.2173,0.032 -4.2764,0.07 -0.086,0.054 -0.1032,2.9313 -0.086,14.0998 l 0.022,14.0314 4.1965,0.072 c 3.5067,0.06 4.2159,0.052 4.314,-0.046 0.099,-0.099 0.1047,-1.3941 0.037,-8.1823 -0.044,-4.4356 -0.064,-8.0819 -0.043,-8.1027 0.021,-0.021 0.053,-0.022 0.073,0 0.059,0.06 8.0384,14.2546 9.936,17.6742 0.9815,1.7685 1.7664,3.2335 1.7443,3.2556 -0.022,0.022 -11.462,0.062 -25.4222,0.09 l -25.38212,0.05 0.057,-6.1383 z"
+         style="fill:#786daa" />
+    </g>
+    <rect
+       y="2594.7913"
+       x="-39.192303"
+       height="1.6097413"
+       width="6.4389653"
+       id="rect6619"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39400017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 633.96074,2594.4587 444.80586,0"
+       id="path8553"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/25.jpg"
+       xlink:href="imagenes/25.jpg"
+       y="2482.7397"
+       x="2.0988169"
+       id="image6784"
+       preserveAspectRatio="none"
+       height="366.8176"
+       width="653.23682" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5599ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6621"
+       width="259.46161"
+       height="25.766138"
+       x="796.19336"
+       y="2824.448" />
+    <rect
+       y="2804.752"
+       x="3.2924249"
+       height="45.46204"
+       width="62.502598"
+       id="rect6623"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6625"
+       y="2840.3306"
+       x="33.34193"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.51250076px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4011"
+         x="33.34193"
+         y="2840.3306">66</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7940"
+       d="m 26.729035,2216.4277 444.805845,0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/24.jpg"
+       xlink:href="imagenes/24.jpg"
+       y="2145.5623"
+       x="404.08167"
+       id="image6719"
+       preserveAspectRatio="none"
+       height="365.88342"
+       width="651.5733" />
+    <text
+       y="2210.1638"
+       x="38.887165"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.89999962px;line-height:100%;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00747504px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="text7936"
+       sodipodi:linespacing="100%">
+      <tspan
+         sodipodi:role="line"
+         id="tspan8539"
+         x="38.887165"
+         y="2210.1638">Showcooking</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan8557"
+         x="38.887165"
+         y="2240.0637">con David Ariza</tspan>
+    </text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text8541"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.89999962px;line-height:100%;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00747504px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="1229.787"
+       y="1543.2742">
+      <tspan
+         sodipodi:role="line"
+         id="tspan8547"
+         x="1229.787"
+         y="1543.2742">Taller para niños/as con</tspan>
+    </text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1225.0376,1549.538 372.3649,0"
+       id="path8545"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text8549"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.89999962px;line-height:100%;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00747504px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="748.5658"
+       y="2587.0308">
+      <tspan
+         sodipodi:role="line"
+         id="tspan8555"
+         x="748.5658"
+         y="2587.0308">Taller “Pan de verdad”</tspan>
+      <tspan
+         sodipodi:role="line"
+         id="tspan8559"
+         x="748.5658"
+         y="2616.9307">con Jesús Machí</tspan>
+    </text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4819"
+       width="463.62585"
+       height="257.13293"
+       x="1782.0427"
+       y="-365.46823" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5367"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:129.99999523%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00951045px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.86600006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="translate(555.41592,160.0227)"><flowRegion
+         id="flowRegion5369"><rect
+           id="rect5372"
+           width="364.81067"
+           height="286.36679"
+           x="1293.295"
+           y="-528.45312"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:129.99999523%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.86600006;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+         id="flowPara5378">El mayor Centro de Formación y Empleo para personas en situación o riesgo de exclusión social en Valencia.</flowPara><flowPara
+         id="flowPara5380" /><flowPara
+         id="flowPara5382">La sede y cocina central de Novaterra Catering Sostenible.</flowPara><flowPara
+         id="flowPara5384" /><flowPara
+         id="flowPara5386">Un espacio multifuncional al servicio de las organizaciones valencianas</flowPara></flowRoot>    <rect
+       y="1611.762"
+       x="350.8761"
+       height="23.099457"
+       width="187.24684"
+       id="rect5326"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#53497e;fill-opacity:0.75871313;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(-176.52839,4507.1104)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00747504px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="flowRoot5328"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5330"><rect
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+           y="-2890.5444"
+           x="90.015831"
+           height="181.02672"
+           width="1055.5596"
+           id="rect5332" /></flowRegion><flowPara
+         id="flowPara6902"> IES Enric Valor de Picanya</flowPara><flowPara
+         id="flowPara6904" /><flowPara
+         id="flowPara6906" /><flowPara
+         id="flowPara6908" /><flowPara
+         id="flowPara6910" /><flowPara
+         id="flowPara6912" /><flowPara
+         id="flowPara6914" /><flowPara
+         id="flowPara6916" /><flowPara
+         id="flowPara6918" /><flowPara
+         id="flowPara6920" /><flowPara
+         id="flowPara6922" /><flowPara
+         id="flowPara6924" /></flowRoot>    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path6735"
+       cx="1826.5046"
+       cy="-355.98438"
+       r="11.462594"
+       inkscape:transform-center-x="1.5810474"
+       inkscape:transform-center-y="-7.1147132" />
+    <circle
+       inkscape:transform-center-y="-7.1147132"
+       inkscape:transform-center-x="1.5810474"
+       r="11.462594"
+       cy="-264.04672"
+       cx="1826.5046"
+       id="circle6737"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="circle6739"
+       cx="1826.5046"
+       cy="-198.04672"
+       r="11.462594"
+       inkscape:transform-center-x="1.5810474"
+       inkscape:transform-center-y="-7.1147132" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#53497e;fill-opacity:0.75871313;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6760"
+       width="323.64758"
+       height="25.672668"
+       x="152.29456"
+       y="986.64868" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6762"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00747504px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="matrix(0.90382644,0,0,1,-245.57723,3883.9973)"><flowRegion
+         id="flowRegion6764"><rect
+           id="rect6766"
+           width="1055.5596"
+           height="181.02672"
+           x="90.015831"
+           y="-2890.5444"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6794">Rosendo Ortí y Francisco Cobacho firmando el acuerdo</flowPara><flowPara
+         id="flowPara6796" /><flowPara
+         id="flowPara6798" /><flowPara
+         id="flowPara6800" /><flowPara
+         id="flowPara6802" /><flowPara
+         id="flowPara6804" /><flowPara
+         id="flowPara6806" /><flowPara
+         id="flowPara6808" /><flowPara
+         id="flowPara6810" /><flowPara
+         id="flowPara6812" /><flowPara
+         id="flowPara6814" /><flowPara
+         id="flowPara6816" /></flowRoot>    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.41250038px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00662073px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="191.50342"
+       y="2265.3352"
+       id="text6858"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan6860"
+         x="193.4216"
+         y="2265.3352">“Cuando la magia de nuestro entorno </tspan><tspan
+         sodipodi:role="line"
+         x="191.50342"
+         y="2286.2302"
+         id="tspan6862">se transforma en gastronomía”</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#53497e;fill-opacity:0.75871313;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6926"
+       width="253.004"
+       height="23.099457"
+       x="782.39905"
+       y="1609.5957" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6928"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00747504px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="translate(294.75166,4504.9442)"><flowRegion
+         id="flowRegion6930"><rect
+           id="rect6932"
+           width="1055.5596"
+           height="181.02672"
+           x="90.015831"
+           y="-2890.5444"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6958">Estudiantes de EPLA y Xaverianas</flowPara><flowPara
+         id="flowPara6960" /><flowPara
+         id="flowPara6962" /><flowPara
+         id="flowPara6964" /><flowPara
+         id="flowPara6966" /><flowPara
+         id="flowPara6968" /><flowPara
+         id="flowPara6970" /><flowPara
+         id="flowPara6972" /><flowPara
+         id="flowPara6974" /><flowPara
+         id="flowPara6976" /><flowPara
+         id="flowPara6978" /><flowPara
+         id="flowPara6980" /></flowRoot>    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#53497e;fill-opacity:0.75871313;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6982"
+       width="187.24684"
+       height="23.099457"
+       x="350.8761"
+       y="1897.0356" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6984"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00747504px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="translate(-176.5284,4792.3841)"><flowRegion
+         id="flowRegion6986"><rect
+           id="rect6988"
+           width="1055.5596"
+           height="181.02672"
+           x="90.015831"
+           y="-2890.5444"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara7014">Visita Vedrunas Valencia</flowPara><flowPara
+         id="flowPara7016" /><flowPara
+         id="flowPara7018" /><flowPara
+         id="flowPara7020" /><flowPara
+         id="flowPara7022" /><flowPara
+         id="flowPara7024" /><flowPara
+         id="flowPara7026" /><flowPara
+         id="flowPara7028" /><flowPara
+         id="flowPara7030" /><flowPara
+         id="flowPara7032" /><flowPara
+         id="flowPara7034" /></flowRoot>    <g
+       id="g4047"
+       transform="translate(0,930.36532)">
+      <rect
+         y="90.925697"
+         x="1193.8875"
+         height="25.766138"
+         width="259.46161"
+         id="rect4049"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5599ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4051"
+         y="108.78069"
+         x="1212.754"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         xml:space="preserve"><tspan
+           y="108.78069"
+           x="1212.754"
+           id="tspan4053"
+           sodipodi:role="line">5 · ESPAI NOVATERRA</tspan></text>
+    </g>
+    <g
+       transform="translate(4.3608045e-6,1818.1324)"
+       id="g4055">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5599ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4057"
+         width="259.46161"
+         height="25.766138"
+         x="1193.8875"
+         y="90.925697" />
+      <text
+         xml:space="preserve"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         x="1212.754"
+         y="108.78069"
+         id="text4059"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4061"
+           x="1212.754"
+           y="108.78069">5 · ESPAI NOVATERRA</tspan></text>
+    </g>
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/14.JPG"
+       xlink:href="imagenes/14.JPG"
+       y="746.59436"
+       x="1521.584"
+       id="image4883"
+       preserveAspectRatio="none"
+       height="291.82721"
+       width="390.71082"
+       clip-path="url(#clipPath4888)"
+       transform="matrix(1.2941119,0,0,1.2941119,-776.03373,-285.22955)" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/Escuela Profesional Xavier.jpg"
+       xlink:href="imagenes/Escuela Profesional Xavier.jpg"
+       y="1659.5706"
+       x="576.99036"
+       id="image4759"
+       preserveAspectRatio="none"
+       height="257.41635"
+       width="458.41266" />
+    <rect
+       y="1893.8875"
+       x="782.39905"
+       height="23.099457"
+       width="253.004"
+       id="rect4479"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#53497e;fill-opacity:0.75871313;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(304.75166,4789.2359)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00747504px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="flowRoot4481"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4483"><rect
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+           y="-2890.5444"
+           x="90.015831"
+           height="181.02672"
+           width="1055.5596"
+           id="rect4485" /></flowRegion><flowPara
+         id="flowPara4511">Escuela Profesional Xavier</flowPara><flowPara
+         id="flowPara4513" /><flowPara
+         id="flowPara4515" /><flowPara
+         id="flowPara4517" /><flowPara
+         id="flowPara4519" /><flowPara
+         id="flowPara4521" /><flowPara
+         id="flowPara4523" /><flowPara
+         id="flowPara4525" /><flowPara
+         id="flowPara4527" /><flowPara
+         id="flowPara4529" /><flowPara
+         id="flowPara4531" /></flowRoot>    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/DAVIDARIZA_FB_PERFIL-01.png"
+       xlink:href="imagenes/DAVIDARIZA_FB_PERFIL-01.png"
+       y="2312.937"
+       x="113.62696"
+       id="image4619"
+       preserveAspectRatio="none"
+       height="153.9716"
+       width="153.9716" />
+    <image
+       y="2632.521"
+       x="787.14075"
+       id="image4697"
+       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcg SlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwK DAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQU FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgBXgFe AwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMF BQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkq NDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqi o6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/E AB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMR BAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVG R0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKz tLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A /VOkoooABRRRmgAo7ijNAoAO9HeiigAoFFFAB2o70Ud6ACjtRRQAdqKO1FABR3oo70AFFHeigA7U dqKO1ABS0gooAWikooAWikooAWikooAWikooAWikooAWikooAWikooAWikooAWikooAWikooAKKK DQAUYpKKAFpKO1FAC0UlFAC0UlFAC0UlLQAUUUUAFFFFABRR2ooAKKKKACiiigApaSigBaKSigBa KSigBaSiigBaKSigBaKSigBaKSigApaSigBaKSigBaKSigBaKSigAoNH4UGgBKO1FHagA7UUdqKA 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 hDxnaQyyF8KxIHynBJwDW1j9qiDQ2SWXw819YvNBGs+nXTyllkhEu4K0K4wGA+bAznJHGfZ5/C2k XQi83S7KTyl2R77dDsXBGBxwMEjFTHRLAoF+x2+0AADyl4wAB29ABQB5Jrn7R0OieFv7Ybw7dX5j neGW30+bz8gRxybo2VcPxKuc7QCGGSQM4+qfte6PpaxbvDuqyNPbrNAigZlfyo3eEDrvQyqpHXqe le6Q6JY28CQRWdvHAhJWNIlCqScnAx680p0WxMqyfZIPMVzIG8pchiMFh744zQB4rJ+1LYHxJYaV b6K9yt/cyw210lzuXZGGLPIFQmMtj5Achhk7htONLwH+0Ta+ONTsrb+xJrDzrg2rBpt0qSeS8wYQ lQ5i2IR5hA+YgYPWvUD4U0clidKsstIJT/oycuBgN06gd6ng0Wyt7oXKWlulwF2CVYlDhe4yOccC gC1DKlxEkqco6hlypBwfY81JikVdvvS0AGKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig AooooAKKKKACj0o7UUAFHeijvQAUCjvQKADtSd6XtRQAneilpKADtRRS0AJR3ope9ACd6O9FLQAl HaiigBe1Haj60UAFFFH86AD+dFFHFABRRxRxj2oAO1FFFABR/Oj+dFABRRxRxQAUdqOMe1FABRRR /OgA/nRRRxQAUCjijj8KACiiigAooooAKPSij0oAKO9FHegA70CigUAHakpe1J3oAKKO9FAB2oo7 UUAFHeijvQAUUUd6ACjtRR2oAWiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii igAooooAKKKKACiiigAoo7UelAB/Kj+VFHegAoooFAB2o70dqTvQAvekoooAO1FHaigApe9JR3oA KXvSUUAFHaijtQAtFFFABR/KiigAooooAKP50UUAFFFFAB/KiiigAooooAP50UUUAFH8qKKACiii gAooooAKKKKACiiigAo9KKPSgAo70Ud6ACgUUCgA7Unel7UnegAoo70UAHaijtRQAUd6KO9ABRR3 o70AFHaijtQAtFHajtQAUUUUAFFH86KACiiigAoo7UUAFFFH86ACiiigAooo7UAFFFFABRR/OigA oooFABRRRQAUUUUAHaiij0oAKO9FHegA70CjvQKADtRR2pKAFpKKKAClpO1FABS96SjvQAUtJRQA UUUdqAF+tFFFABR/OiigAo4oooAOKOMe1FFABRRRQAfzooooAOKOKKKADjHtRRRQAUfzoooAKOKK KADijj8KKKACiiigAooooAKPSij0oAKO9FHegAoFHegUAHak70vakoAO9FLSUAHaijtRQAUd6KXv QAlHeiloASjtRR2oAWijpRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUU Af/Z "
+       preserveAspectRatio="none"
+       height="180.08894"
+       width="180.08894" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3695"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="translate(2179.9173,597.75714)"><flowRegion
+         id="flowRegion3697"><rect
+           id="rect3699"
+           width="449.44543"
+           height="323.24326"
+           x="-434.59937"
+           y="227.10709"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara3819">- Asociación Amigos del Cerezo</flowPara><flowPara
+         id="flowPara3821">- Asprona</flowPara><flowPara
+         id="flowPara3823">- Bona Gent</flowPara><flowPara
+         id="flowPara3825">- Cáritas</flowPara><flowPara
+         id="flowPara3827">- Consorcio Pactem Nord</flowPara><flowPara
+         id="flowPara3829">- Cocemfe Valencia</flowPara><flowPara
+         id="flowPara3831">- Cocemfe Alicante</flowPara><flowPara
+         id="flowPara3833">- Cruz Roja</flowPara><flowPara
+         id="flowPara3835">- Cruz Roja Alicante</flowPara></flowRoot>    <flowRoot
+       transform="translate(2425.9173,597.75714)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="flowRoot3739"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3741"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
+           y="227.10709"
+           x="-434.59937"
+           height="323.24326"
+           width="449.44543"
+           id="rect3743" /></flowRegion><flowPara
+         id="flowPara3801">- FSG</flowPara><flowPara
+         id="flowPara3803">- Fundación Adsis</flowPara><flowPara
+         id="flowPara3805">- Fundación Eifor</flowPara><flowPara
+         id="flowPara3807">- Fundación Merced Migraciones</flowPara><flowPara
+         id="flowPara3809">- Fundación Nova Feina Valencia</flowPara><flowPara
+         id="flowPara3811">- Fundación Nova Feina Alicante</flowPara><flowPara
+         id="flowPara3813">- Fundación Novaterra</flowPara><flowPara
+         id="flowPara3815">- Fundación Secretariado Gitano</flowPara><flowPara
+         id="flowPara3817">- Fundación Tots Units</flowPara></flowRoot>  </g>
+</svg>
